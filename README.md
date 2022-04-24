@@ -11,9 +11,10 @@ Mental-Health-Toolkit-for-Social-Media
 │       ├── Spam Filter Model.joblib
 │       └── Notification Prediciton.csv
 ├── Exit Points Tool
-├── Time Visualisation and Control Tool
+├── Time Visualisation Tool
 ├── Moderation Tool
-│   └── moderation_model.ipynb
-|   └── Visualisation.ipynb
+│   ├── moderation_model.ipynb
+|   ├── Visualisation.ipynb
+|   └── Image_to_Text.ipynb
 └── Guide.pdf
 ```
