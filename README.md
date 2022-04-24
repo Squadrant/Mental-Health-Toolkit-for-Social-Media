@@ -1,7 +1,7 @@
-# Humane-social-media-guide
+# Mental Health Toolkit for Social Media
 
 ```
-Humane-social-media-guide
+Mental-Health-Toolkit-for-Social-Media
 ├── Notification Postbox Tool
 ├── Spam Filter Tool
 │   ├── Spam Filter Model Builder.ipynb
