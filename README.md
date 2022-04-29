@@ -6,10 +6,11 @@ Mental-Health-Toolkit-for-Social-Media
 ├── Spam Filter Tool
 │   ├── Spam Filter Model Builder.ipynb
 │   ├── Notification Predictor.ipynb
-│   └── Example Inputs and Outputs
-│       ├── Example Notifications.csv
-│       ├── Spam Filter Model.joblib
-│       └── Notification Prediciton.csv
+│   ├── Example Inputs and Outputs
+│   │   ├── Example Notifications.csv
+│   │   ├── Spam Filter Model.joblib
+│   │   └── Notification Prediciton.csv
+│   └── Testing
 ├── Exit Points Tool
 │   └── Exit_Points.ipynb
 ├── Time Visualisation Tool
