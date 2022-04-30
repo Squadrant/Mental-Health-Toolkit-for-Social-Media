@@ -3,6 +3,13 @@
 ```
 Mental-Health-Toolkit-for-Social-Media
 ├── Notification Postbox Tool
+|   └───PostboxNotification                     (the Android Studio project directory)
+|       └── app/src
+|           ├── main
+|           |   ├── java/com/squadrant          (java source files)
+|           |   └── res                         (resources directory)
+|           ├── test/java/com/squadrant         (unit tests)
+|           └── androidTest/java/com/squadrant  (instrumented tests)
 ├── Spam Filter Tool
 │   ├── Spam Filter Model Builder.ipynb
 │   ├── Notification Predictor.ipynb
